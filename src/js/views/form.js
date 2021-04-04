@@ -21,9 +21,9 @@ export function showInputError(el) {
 	parent.insertAdjacentHTML('beforeend', template);
 }
 
-/**
- * Function removeInputError. Remove input error
- * @param {HTMLInputElement} el
+/*
+Function removeInputError. Remove input error
+@param {HTMLInputElement} el
  */
 
 export function removeInputError(el) {
